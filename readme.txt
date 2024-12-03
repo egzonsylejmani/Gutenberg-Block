@@ -1,4 +1,6 @@
-# Post Grid Display Block
+#The Post Grid Display Block is a custom WordPress block plugin designed to enhance your website's post presentation by providing a responsive, grid-based layout with category filtering.
+
+#Clone the plugin repository into your WordPress plugins directory:
 
 A WordPress block plugin for showing posts in a grid layout with category filtering.
 
